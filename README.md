@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, my name is Hadi 👋
 
 <!--
 **hadi-q/hadi-q** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I am a Bachelor of Information student at the University of Toronto's iSchool. 
